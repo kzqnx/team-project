@@ -1,0 +1,21 @@
+{
+  "checks": [
+    "project boundary stated",
+    "human-output review stated",
+    "one risk and response recorded",
+    "Given-When-Then behaviour recorded",
+    "initial contributions recorded for every member"
+  ],
+  "member_labels": [
+    "KwangZanquan",
+    "WuWenxuan",
+    "Agatha"
+  ],
+  "note": "This automated check verifies the project brief structure. It does not measure model accuracy or approve clinical use.",
+  "project_brief_sha256": "30dfc9db560b294b4c4d7cabf76d785f1ea9d5911820e777c4b6810365119db4",
+  "project_facts_file_hash": "990d776a6dded4db8b224d11469c33a5c5e8f81add4c8ed2a3c746bbb0f8e09e",
+  "risk_count": 1,
+  "status": "brief_complete",
+  "task_type": "object_detection",
+  "team_name": "team3"
+}
