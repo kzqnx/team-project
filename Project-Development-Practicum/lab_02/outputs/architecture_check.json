@@ -1,0 +1,31 @@
+{
+  "architecture_brief_sha256": "a1fb52277a940cfa0cacb3c2341f4c8433ac54fa63408ca4963fec31f1d757cf",
+  "case_count": 5,
+  "case_ids": [
+    "VALID_IMAGE",
+    "MISSING_FILE",
+    "UNSUPPORTED_IMAGE",
+    "UNCERTAIN_RESULT",
+    "CONFIDENT_RESULT"
+  ],
+  "checks": [
+    "six workflow parts described",
+    "five case paths traced",
+    "invalid input stopped before detection",
+    "all model outputs end at human review",
+    "no automatic medical action allowed",
+    "every Lab 01 member recorded in the team check"
+  ],
+  "lab01_project_brief_sha256": "30dfc9db560b294b4c4d7cabf76d785f1ea9d5911820e777c4b6810365119db4",
+  "part_count": 6,
+  "requirements_sha256": "5964ce503753a44ea2cfc93156579d2cfc108f0bbc8a7ff6fd6366a3e91cd18e",
+  "status": "architecture_complete",
+  "workflow_parts": [
+    "INPUT",
+    "VALIDATION",
+    "PREPROCESSING",
+    "DETECTOR",
+    "RESULT",
+    "HUMAN-REVIEW"
+  ]
+}
